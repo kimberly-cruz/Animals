@@ -1,0 +1,13 @@
+h1,p{ 
+    font-family: sans-serif; 
+}
+
+h1{
+    color: #666666;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+#cupofwater{
+    width:150px;
+}
